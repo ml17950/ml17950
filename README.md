@@ -9,26 +9,17 @@
 
 ### Actively Developed
 
+...
+
 ### Maintained
 
- - [`lastpages`](https://github.com/ml17950/dokuwiki-plugin-lastpages) Plugin for Dokuwiki
- - [`subpages`](https://github.com/ml17950/dokuwiki-plugin-subpages) Plugin for Dokuwiki
+ - [`lastpages`](https://github.com/ml17950/dokuwiki-plugin-lastpages) - Plugin for Dokuwiki
+ - [`subpages`](https://github.com/ml17950/dokuwiki-plugin-subpages) - Plugin for Dokuwiki
+ - [`DeleteEmpty`](https://github.com/ml17950/DeleteEmpty) - CLI Tool for Windows
 
 ### Archived
 
-## Used Languages and Tools
-
-#### Current
-![Languages and Frameworks I currently use](https://skillicons.dev/icons?i=html,css,js,php,arduino)
-
-#### Past
-![Languages and Frameworks I've used](https://skillicons.dev/icons?i=dotnet,c,cpp,lua,pascal,basic)
-
-#### Future
-![Languages and Frameworks I want to work with](https://skillicons.dev/icons?i=go,py)
-
-### Tools
-![Tools](https://skillicons.dev/icons?i=arduino,vscode,git,github,bash,docker,linux,npp,subversion)
+...
 
 ## Stats
 
