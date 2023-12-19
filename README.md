@@ -15,7 +15,8 @@
 
  - [`lastpages`](https://github.com/ml17950/dokuwiki-plugin-lastpages) - Plugin for Dokuwiki
  - [`subpages`](https://github.com/ml17950/dokuwiki-plugin-subpages) - Plugin for Dokuwiki
- - [`DeleteEmpty`](https://github.com/ml17950/DeleteEmpty) - CLI Tool for Windows
+ - [`DeleteEmpty`](https://github.com/ml17950/DeleteEmpty) - CLI Tool for Windows to delete empty folders
+ - [`CmdReplace`](https://github.com/ml17950/CmdReplace) - CLI Tool for Windows to replace text in a file
 
 ### Archived
 
